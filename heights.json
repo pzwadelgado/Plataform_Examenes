@@ -1,0 +1,210 @@
+[
+  {
+    "pregunta": "¿Qué porcentaje de los accidentes fatales en trabajos de construcción y montaje se producen por caídas de altura?",
+    "opciones": [ "50%", "64%", "71%", "85%" ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la probabilidad de morir en una caída desde 3.5 metros de altura?",
+    "opciones": [ "50%", "64%", "71%", "85%" ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué se considera trabajo en altura y cuáles son sus riesgos?",
+    "opciones": [ "Toda labor a partir de 1.80 m con riesgo de sufrir caída libre o en la que una caída de menor altura puede causar una lesión grave", "Cualquier tarea que requiera el uso de herramientas eléctricas pesadas", "Trabajos en espacios confinados sin importar la distancia al suelo", "Toda labor a partir de 3.5 m que se realice sin equipo de protección" ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En la fórmula de la energía de caída libre (Ei = m x h x g), ¿qué representa la letra 'h'?",
+    "opciones": [ "Humedad del ambiente", "Altura de caída libre", "Hora del accidente", "Hipotenusa de la caída" ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo define el documento la 'Caída Libre'?",
+    "opciones": [ "El movimiento de un trabajador que resbala en el mismo nivel", "El descenso controlado mediante cuerdas", "El movimiento acelerado que adquiere un cuerpo bajo la acción exclusiva de la fuerza de gravedad", "La pérdida de equilibrio en una escalera de tijera" ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Explícame la jerarquía de control para la seguridad en alturas (de la medida más efectiva a la menos efectiva):",
+    "opciones": [ "EPP, Controles Administrativos, Controles de Ingeniería, Sustitución, Eliminación", "Eliminación, Sustitución, Controles de Ingeniería, Controles Administrativos, EPP", "Controles de Ingeniería, Eliminación, EPP, Controles Administrativos, Sustitución", "Sustitución, EPP, Eliminación, Controles Administrativos, Controles de Ingeniería" ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la Jerarquía de Control, ¿qué significa la medida de 'Sustitución'?",
+    "opciones": [ "Reemplazar tareas peligrosas con alternativas más seguras (como usar extensiones)", "Proporcionar equipo de protección personal", "Evitar completamente el trabajo en altura", "Implementar barreras físicas" ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuáles son los diferentes sistemas de protección contra caídas descritas en la capacitacion?",
+    "opciones": [ "Sistemas de rescate y primeros auxilios", "Sistemas de bloqueo y etiquetado eléctrico", "Sistemas pasivos (barandillas, barricadas, redes) y sistemas activos (arnés, línea de vida, punto de anclaje, estrobo)", "Exclusivamente el uso de andamios y escaleras telescópicas" ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un componente de un Sistema Activo de protección contra caídas?",
+    "opciones": [ "Barandillas", "Punto de anclaje", "Barricadas", "Cercas" ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la norma ANSI Z359.4-2007, ¿qué tema se regula?",
+    "opciones": [ "Definiciones y Nomenclaturas", "Sistemas pasivos de protección", "Requisitos para el empleador", "Rescate de los trabajos en altura" ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué norma OSHA establece los requisitos para que los empleadores provean sistemas de protección contra caídas?",
+    "opciones": [ "OSHA 1910.147", "OSHA 1926.501", "ANSI Z359.1", "NTP 851:002" ],
+    "correcta": 1
+  }, 
+  {
+    "pregunta": "Para los Sistemas Horizontales, ¿cuál es la longitud máxima de los tramos y la cantidad máxima de personas que pueden anclarse?",
+    "imagen": "image_Exam/Sist_Horizontal.jpg", 
+    "opciones": [ "Tramos de no más de 10 metros y máximo 2 personas", "Tramos de 5 metros y máximo 3 personas", "Tramos de 15 metros y máximo 1 persona", "Tramos de 20 metros y sin límite de personas" ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Dónde debe situarse el elemento de fijación (anillo 'D') del arnés diseñado para la detención de caídas?",
+    "opciones": [ "En el vientre", "En los costados de la cintura", "En el pecho", "En la espalda del trabajador, entre los omóplatos" ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Según la clasificación de arneses, ¿cuál es la función del Arnés tipo 'E'?",
+    "imagen": "image_Exam/arnes_tipo_e.jpg",
+    "opciones": [ "Detención de caídas", "Acceso y evacuación de espacios confinados", "Posicionamiento para el trabajo", "Descenso controlado" ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Dónde se ubican los anillos 'D' en un Arnés tipo 'P' (Posicionamiento para el trabajo)?",
+    "opciones": [ "En la espalda", "En los hombros", "En los costados de la cintura", "En el pecho" ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de arnés tiene el anillo 'D' en el vientre?",
+    "imagen": "image_Exam/arnes_tipo_e.jpg",
+    "opciones": [ "Arnés tipo A", "Arnés tipo E", "Arnés tipo L", "Arnés tipo D" ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿De qué material está construida la cinta del arnés especial para trabajos en caliente?",
+    "opciones": [ "Fibra de nailon común", "Fibra de Kevlar", "Plástico dieléctrico", "Acero inoxidable" ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Sobre los elementos de conexión y anclaje, ¿qué práctica está estrictamente PROHIBIDA?",
+    "imagen": "image_Exam/anclaje_tuberia_prohibido.jpg",
+    "opciones": [ "Usar una línea retráctil", "Utilizar tuberías como puntos de anclaje", "Usar eslingas de doble gancho", "Conectarse a una línea de vida vertical" ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuánta resistencia debe tener, como mínimo, el punto de anclaje por cada trabajador conectado?",
+    "opciones": [ "10 kN", "15 kN", "22 kN", "50 kN" ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuántas personas pueden ocupar una línea de vida vertical a la vez?",
+    "opciones": [ "Una sola persona a la vez", "Hasta dos personas", "Depende del grosor de la cuerda", "Hasta tres personas si el anclaje lo permite" ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Los cables o cuerdas de las líneas de vida deben poseer un factor de seguridad no inferior a:",
+    "opciones": [ "Uno (1)", "Dos (2)", "Tres (3)", "Cinco (5)" ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué es importante que el punto de anclaje esté debidamente alineado con el trabajador?",
+    "imagen": "image_Exam/efecto_pendulo.jpg",
+    "opciones": [ "Para reducir el desgaste del arnés", "Para evitar el efecto péndulo en caso de caída", "Para aumentar la capacidad de carga del andamio", "Para cumplir con el código de colores" ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué se requiere que el punto de anclaje esté elevado?",
+    "opciones": [ "Para reducir la distancia de caída libre", "Para no interrumpir el paso de otros trabajadores", "Para que el supervisor pueda verlo fácilmente", "Para evitar daños por el agua del suelo" ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En el cálculo del Espacio Libre de Caída (ELC = LE + EA + MS + ET), ¿qué significa 'EA'?",
+    "imagen": "image_Exam/calculo_elc.jpg",
+    "opciones": [ "Estatura Alta", "Elongación del Amortiguador", "Elevación del Anclaje", "Energía Acumulada" ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el cálculo del Espacio Libre de Caída (ELC), ¿qué significa 'LE'?",
+    "opciones": [ "Límite de Elevación", "Largo Total del Estrobo", "Línea de Evacuación", "Longitud Estimada" ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Quién es responsable de asegurar que el trabajador cuente con el aval médico que lo faculta como apto para realizar labores de alto riesgo?",
+    "opciones": [ "El propio trabajador", "El Supervisor del área", "El fabricante del equipo de protección", "El contratista de mantenimiento" ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe hacer un trabajador si su equipo de protección ha sido utilizado para detener una caída?",
+    "opciones": [ "Lavar el equipo y volverlo a usar", "Guardarlo en el almacén de inmediato", "Reportar inmediatamente al Supervisor", "Arreglar las costuras dañadas" ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Con qué frecuencia debe el trabajador inspeccionar el equipo de protección para trabajos en altura?",
+    "opciones": [ "Diariamente antes de cada uso", "Una vez a la semana", "Cada mes", "Solo cuando lo solicite el auditor" ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes es una responsabilidad específica del departamento de SST?",
+    "opciones": [ "Realizar el mantenimiento a los montacargas", "Elaborar procedimientos de trabajo seguro y seleccionar los sistemas de protección", "Autorizar las compras de materiales de construcción", "Aprobar los exámenes médicos directamente" ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al apoyar una escalera recta en una estructura para alcanzar un nivel superior, ¿cuánto debe superar la parte superior de la escalera la altura de la estructura?",
+    "imagen": "image_Exam/escalera_apoyada.jpg",
+    "opciones": [ "Medio metro", "Un metro", "Dos metros", "No es necesario que la supere" ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se conoce a la Escalera tipo A descrita en el documento?",
+    "opciones": [ "Escalera telescópica", "Escalera de extensión", "Escalera de tijera", "Escalera colgante" ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la inspección previa de una escalera, ¿qué componente es fundamental revisar para evitar deslizamientos?",
+    "opciones": [ "El color de la escalera", "Las etiquetas del fabricante", "Las zapatas antideslizantes", "El peso total de la escalera" ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según las imágenes de 'Errores más comunes' con escaleras, ¿cuál de estas acciones es Incorrecta?",
+    "imagen": "image_Exam/errores_escalera.jpg",
+    "opciones": [ "Mantener siempre tres puntos de contacto", "Colocar la escalera sobre una superficie nivelada", "Pararse en el último peldaño o estirarse excesivamente a los lados", "Inspeccionar los peldaños antes de subir" ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un tipo de andamio mencionado en la presentación?",
+    "opciones": [ "Andamio sobre caballete", "Andamio Metálico tubulares", "Andamio Colgante", "Andamio de madera suspendido por cuerdas sintéticas" ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Antes de subirse a un andamio, la norma principal indica que se debe:",
+    "opciones": [ "Pintar la estructura para evitar óxido", "Revisar toda la estructura para evitar condiciones inestables", "Armar el andamio sin herramientas", "Lanzar los escombros desde arriba para limpiar el área" ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué acción está explícitamente prohibida al trabajar en un andamio?",
+    "opciones": [ "Arrojar herramientas ni escombros desde arriba del andamio", "Nivelar las patas ajustables", "Usar arnés de cuerpo completo", "Subir herramientas usando poleas o cuerdas amarradas" ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Durante el ascenso y descenso en un andamio, el trabajador siempre debe:",
+    "opciones": [ "Llevar las herramientas en las manos", "Hacerlo lo más rápido posible", "Permanecer anclado", "Subir por la parte exterior de la estructura sin escalera" ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con la capacitacion, ¿cuál de estos padecimientos representa un riesgo no detectable que puede causar accidentes en andamios?",
+    "opciones": [ "Resfriado común", "Dolor muscular", "Alergia al polvo", "Epilepsia o vértigo" ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué porcentaje de los accidentes fatales por caídas de altura se originan en plataformas de trabajo?",
+    "opciones": [ "50%", "64%", "71%", "85%" ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según la Jerarquía de Control, ¿qué significa 'Controles de Ingeniería'?",
+    "opciones": [ "Reemplazar tareas peligrosas", "Proporcionar equipo de protección personal", "Implementar barreras físicas o modificaciones", "Establecer procedimientos y políticas de seguridad" ],
+    "correcta": 2
+  }
+]

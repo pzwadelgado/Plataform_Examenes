@@ -1,0 +1,304 @@
+[
+    {
+        "pregunta": "Según los conceptos básicos de Seguridad y Salud en el Trabajo, ¿cómo se define un 'Peligro'?",
+        "opciones": [
+            "La probabilidad de que se materialice un daño.",
+            "Fuente, situación o acto con potencial de causar daño en la salud de los trabajadores, equipos o instalaciones.",
+            "Un evento no deseado que genera lesiones inmediatas.",
+            "Cualquier falla u omisión del trabajador."
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el 'Riesgo' en el contexto laboral?",
+        "opciones": [
+            "Una situación con potencial inminente de causar daño.",
+            "Cualquier condición del medio ambiente.",
+            "La probabilidad de que se materialice el peligro y genere daño a personas, bienes o entorno.",
+            "Un suceso imprevisto que ya originó daños materiales."
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "En la analogía del tiburón utilizada en la capacitación, ¿qué representa el acto de 'nadar con un tiburón'?",
+        "opciones": [
+            "Un peligro",
+            "Una condición insegura",
+            "Un incidente",
+            "Un riesgo"
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cómo se define una 'Condición Insegura'?",
+        "opciones": [
+            "Son aquellas condiciones del medio ambiente que pueden contribuir a la ocurrencia de un incidente o accidente.",
+            "Son los olvidos o errores humanos durante un trabajo.",
+            "Es el potencial de causar una falla eléctrica.",
+            "Es todo suceso imprevisto planeado."
+        ],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿A qué hace referencia el término 'Acto Inseguro'?",
+        "opciones": [
+            "A las averías mecánicas imprevistas en la línea de producción.",
+            "A las condiciones climáticas o ambientales riesgosas.",
+            "A las fallas, olvidos, errores u omisiones que hacen las personas al realizar un trabajo o tarea.",
+            "Al estado en el que queda la maquinaria tras un apagón."
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "Según las estadísticas de seguridad, ¿qué porcentaje de incidentes son ocasionados por actos inseguros?",
+        "opciones": [
+            "50%",
+            "75%",
+            "85%",
+            "96%"
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cuál es la principal diferencia entre un Incidente y un Accidente?",
+        "opciones": [
+            "El incidente genera lesiones graves, el accidente no.",
+            "El incidente es un evento que estuvo a punto de provocar un daño pero no ocurrió, mientras que el accidente sí genera daños humanos o materiales.",
+            "El incidente ocurre de forma espontánea y el accidente siempre es intencional.",
+            "No hay diferencia, ambos términos significan exactamente lo mismo en SST."
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un 'Accidente' laboral?",
+        "opciones": [
+            "Un evento esperado y planeado sin consecuencias.",
+            "Un evento no deseado que no causó daños.",
+            "Cualquier situación en el ambiente riesgosa.",
+            "Un suceso de naturaleza imprevista que genera daños humanos o materiales."
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Qué significan las siglas 'LOTOTO' en los procedimientos de seguridad de maquinarias?",
+        "opciones": [
+            "Libre Operación, Trabajo, Orden.",
+            "Bloqueo, Rotulado, Prueba.",
+            "Limpieza, Observación, Tareas Operativas.",
+            "Bloqueo Total, Orden, Tratamiento."
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes es uno de los objetivos principales del sistema LOTOTO?",
+        "opciones": [
+            "Acelerar la producción diaria.",
+            "Identificar energías peligrosas, controlar fuentes de energía y prevenir accidentes graves.",
+            "Permitir el mantenimiento sin apagar los equipos.",
+            "Reducir la cantidad de personal en la fábrica."
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "Dentro de la legislación internacional aplicable a LOTO, ¿cuál es la norma principal que rige el control de energías peligrosas?",
+        "opciones": [
+            "ISO 9001",
+            "ISO 14001",
+            "OSHA 1910.147",
+            "OHSAS 18001"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "Según las estadísticas de OSHA, ¿cuántos trabajadores sufren accidentes de trabajo al año por no tener un sistema LOTO?",
+        "opciones": [
+            "10,000",
+            "30,000",
+            "60,000",
+            "150,000"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes premisas forma parte de las '10 Reglas de Oro de Seguridad y Salud en el Trabajo' mencionadas?",
+        "opciones": [
+            "Permitido usar herramientas no estandarizadas si ahorran tiempo.",
+            "Utilizar siempre el lado izquierdo al subir escaleras.",
+            "Prohibido alterar dispositivos de seguridad (resguardos, paros de emergencia, sensores).",
+            "Se permite el uso del celular mientras camina por pasillos demarcados."
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cómo se define el 'Control de energías peligrosas'?",
+        "opciones": [
+            "Un sistema para purgar tuberías de agua potable.",
+            "El apagado general de la planta eléctrica principal.",
+            "Un método sistemático para evitar que comience a funcionar un equipo o libere energía de forma no controlada, colocando candado y tarjeta.",
+            "Una revisión visual del tablero de control."
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué es la 'Energía' en el contexto de control de energías peligrosas?",
+        "opciones": [
+            "Solamente la corriente eléctrica de más de 110V.",
+            "El movimiento o la posibilidad de que haya movimiento, siempre presente de algún tipo en el equipo.",
+            "El aire comprimido exclusivamente.",
+            "Las fuerzas de gravedad externas a la máquina."
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "Identifique el tipo de energía que representa el pictograma a continuación:",
+        "imagen": "image_Exam/pictograma_energia_quimica.jpg",
+        "opciones": [
+            "Mecánica",
+            "Eléctrica",
+            "Química",
+            "Térmica"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "Según las definiciones de OSHA (29 CFR 1910.147(b)), ¿quién es la 'Persona Autorizada'?",
+        "opciones": [
+            "El Operador de la Máquina que usa el equipo diariamente.",
+            "La persona que ejecuta el procedimiento de bloqueo y puede auditarlo.",
+            "Personal que trabaja en áreas donde se realizan bloqueos pero no interviene la máquina.",
+            "El Gerente de Planta."
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Quién es considerado como la 'Persona Afectada' durante un bloqueo?",
+        "opciones": [
+            "El Operador de la Máquina.",
+            "El técnico de mantenimiento que instala el candado.",
+            "El representante de recursos humanos.",
+            "Cualquier persona que camine por la fábrica."
+        ],
+        "correcta": 0
+    },
+    {
+        "pregunta": "Según los lineamientos expuestos, existen candados de colores específicos según el departamento. ¿Cuáles son las tres áreas con uso exclusivo de candados?",
+        "opciones": [
+            "Bodega, Seguridad y Limpieza.",
+            "Administración, Proyectos y Ventas.",
+            "Producción, Mantenimiento y Proyectos.",
+            "Calidad, Ingeniería y Operaciones."
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "Si un equipo está bloqueado con candado y tarjeta, ¿quién es la ÚNICA persona autorizada para quitar o cortar dicho seguro?",
+        "opciones": [
+            "El Supervisor de Planta.",
+            "Solamente la persona que instaló el candado y cuyos datos se encuentran al reverso de la etiqueta.",
+            "El jefe de mantenimiento en turno.",
+            "Cualquier operario con permiso verbal."
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuántos pasos estructurados conforman el procedimiento correcto para el control de energías peligrosas?",
+        "opciones": [
+            "3 pasos",
+            "5 pasos",
+            "7 pasos",
+            "10 pasos"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el paso número 1 en la secuencia de bloqueo de energías peligrosas?",
+        "opciones": [
+            "Apagar las máquinas y equipos a intervenir.",
+            "Conocer el equipo y preparar el bloqueo.",
+            "Desenergizar e instalar los dispositivos.",
+            "Probar el equipo (energía cero)."
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿En qué consiste el paso número 5 del procedimiento de control de energías (LOTOTO)?",
+        "opciones": [
+            "Desenergizar la fuente de electricidad.",
+            "Realizar el trabajo de mantenimiento de forma directa.",
+            "Probar el equipo o maquinaria para establecer que hay energía cero y está bajo control.",
+            "Liberar el bloqueo y encender el equipo."
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué elemento o dispositivo de bloqueo se muestra en la imagen, el cual es muy útil cuando hay más de un trabajador interviniendo el equipo?",
+        "imagen": "image_Exam/pinza_portacandados.jpg",
+        "opciones": [
+            "Bloqueo para botoneras.",
+            "Pinza portacandados múltiple.",
+            "Caja grupal de candados.",
+            "Dispositivo para bloqueo eléctrico de enchufes."
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "En 'Procedimientos Complejos Grupales', cuando hay más de una persona o múltiples fuentes de energía, ¿cuál es la acción correcta a seguir?",
+        "opciones": [
+            "Usar un solo candado en representación de todo el equipo de trabajo.",
+            "Se debe asignar responsabilidad a una persona autorizada para que evalúe y haga un bloqueo global, luego todas las demás aplican su propio bloqueo.",
+            "No bloquear el equipo, simplemente colocar una etiqueta de peligro.",
+            "Asignar la tarea únicamente al operador afectado."
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la 'Ficha de Bloqueo' de un equipo?",
+        "opciones": [
+            "Un reporte anual de incidentes laborales en la máquina.",
+            "Un documento que autoriza horas extras para el personal de mantenimiento.",
+            "Un documento utilizado en el procedimiento LOTOTO que proporciona información esencial del equipo, descripción de fuentes de energía y el método de bloqueo.",
+            "Una etiqueta que se adhiere temporalmente a herramientas no estandarizadas."
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes es una consecuencia directa de realizar un MAL procedimiento de LOTOTO?",
+        "opciones": [
+            "Reducción de tiempos muertos de la maquinaria.",
+            "Aumento de la eficiencia de la limpieza.",
+            "Restablecimiento accidental del equipo poniendo en peligro al trabajador.",
+            "Cumplimiento rápido de las metas de producción."
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿En qué tipo de situaciones o tareas específicas se requiere OBLIGATORIAMENTE la aplicación de Bloqueo y Rotulado?",
+        "opciones": [
+            "En la operación rutinaria, supervisión y reuniones.",
+            "Mantenimiento, Ajustes y Limpieza.",
+            "Solo al instalar una máquina nueva por primera vez.",
+            "Solamente en caso de un derrame químico."
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "Como precaución adicional, antes de desenergizar una máquina se debe verificar una condición importante. ¿Cuál es?",
+        "opciones": [
+            "Determinar que no existan más equipos o sistemas activos por la misma fuente que puedan verse afectados.",
+            "Que el personal de oficina haya salido de las instalaciones.",
+            "Garantizar que haya refacciones suficientes en bodega.",
+            "Asegurar que el equipo tenga aceite lubricante."
+        ],
+        "correcta": 0
+    },
+    {
+        "pregunta": "Si un trabajador tiene dudas respecto al procedimiento o los puntos de bloqueo de un equipo, ¿cuál es la acción indicada?",
+        "opciones": [
+            "Intentar adivinar la fuente de energía para no atrasar la labor.",
+            "No realizar el bloqueo y encomendarse a la suerte.",
+            "Buscar asesoría en el departamento de Seguridad y Salud en el Trabajo (SST).",
+            "Colocar el candado en el primer panel eléctrico que encuentre."
+        ],
+        "correcta": 2
+    }
+]

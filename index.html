@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plataforma de Evaluaciones - SSO</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <section id="login-section" class="view-section active">
+        <div class="card">
+            <div style="text-align: center; margin-bottom: 20px;">
+                <img src="Logo Pozuelo.png" alt="Logo Pozuelo" style="max-width: 200px;">
+            </div>
+            
+            <h2 style="text-align: center;">Portal de Evaluaciones</h2>
+            <p style="text-align: center; margin-bottom: 20px;">Ingresa tu código de empleado para comenzar</p>
+            
+            <input type="number" id="employee-id" placeholder="Ej: 5658" max="9999" min="0000" onKeyPress="if(this.value.length==4) return false;">
+            
+            <button id="btnLogin" class="btn-principal" onclick="iniciarSesion()" style="width: 100%; margin-top: 15px;">
+                <i class="fa-solid fa-right-to-bracket" style="margin-right: 8px;"></i> Ingresar
+            </button>
+            <p id="login-error" class="error-msg"></p>
+        </div>
+    </section>
+
+    <section id="dashboard-section" class="view-section">
+        <header class="header-corporativo">
+            <div>
+                <h2>Bienvenido, <span id="user-name"></span></h2>
+                <p><i class="fa-solid fa-building-user"></i> Departamento: <span id="user-dept"></span></p>
+            </div>
+            <button onclick="logout()" class="btn-secundario"><i class="fa-solid fa-arrow-right-from-bracket"></i> Salir</button>
+        </header>
+        
+        <div class="courses-grid" id="courses-container">
+            </div>
+    </section>
+
+    <section id="exam-section" class="view-section">
+        <header class="header-corporativo">
+            <h2 id="exam-title">Título del Examen</h2>
+            <button id="btn-volver-header" onclick="showDashboard()" class="btn-secundario"><i class="fa-solid fa-house"></i> Volver al Panel</button>
+        </header>
+        <div id="exam-content" class="card">
+            
+            <div id="question-container">
+                <h3 id="question-text" style="margin-bottom: 20px;">Cargando pregunta...</h3>
+                <div id="options-container" class="options-list">
+                    </div>
+                <p id="question-counter" style="margin-top: 20px; font-size: 14px; color: #666;"></p>
+            </div>
+
+            <div id="exam-results" style="display: none; text-align: center;">
+                <h3 style="font-size: 28px; margin-bottom: 10px; color: var(--rojo-marca);">Examen Finalizado</h3>
+                <p id="score-text" style="font-size: 20px; font-weight: bold; margin-bottom: 20px;"></p>
+                <p id="pass-fail-text" style="font-size: 18px; margin-bottom: 20px; font-weight: bold;"></p>
+                <button class="btn-principal" onclick="showDashboard()"><i class="fa-solid fa-house"></i> Volver al Panel Principal</button>
+            </div>
+
+        </div>
+    </section>
+
+    <script src="api.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

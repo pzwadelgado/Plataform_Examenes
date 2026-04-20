@@ -1,0 +1,205 @@
+[
+    {
+        "pregunta": "Según la información proporcionada, ¿cuáles son los dos tipos de efectos que un químico puede tener en el cuerpo dependiendo de la frecuencia y tiempo de exposición?",
+        "opciones": [
+            "Físicos y químicos",
+            "Agudos y crónicos",
+            "Leves y severos",
+            "Tóxicos e infecciosos"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué documento contiene un resumen completo de los riesgos de un químico, así como los métodos de manejo, almacenamiento adecuado e información reglamentaria?",
+        "opciones": [
+            "La factura de compra del producto",
+            "La etiqueta de transporte",
+            "Las Fichas de Datos de Seguridad (FDS/MSDS)",
+            "El reporte de salud ocupacional"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "Identifique el tipo de riesgo que representa el siguiente pictograma del Sistema Globalmente Armonizado (SGA):",
+        "imagen": "image_Exam/sga_peligro_ambiente_acuatico.jpg",
+        "opciones": [
+            "Peligro para la salud",
+            "Gas a presión",
+            "Peligro para el ambiente acuático",
+            "Corrosivo"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el sistema utilizado actualmente para la identificación de riesgos de las sustancias químicas que ha sustituido al rombo NFPA en muchos países?",
+        "opciones": [
+            "Sistema de Identificación de Transporte",
+            "Sistema Globalmente Armonizado (SGA)",
+            "Sistema de Control de Sustancias",
+            "Sistema de Etiquetado de Riesgos"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "En el etiquetado de un producto químico bajo el SGA, ¿qué elemento se utiliza para indicar la gravedad del peligro, usando términos como 'peligro' para los más graves o 'atención' para los menos graves?",
+        "opciones": [
+            "Identificador del proveedor",
+            "Consejos de prudencia",
+            "Palabra de advertencia",
+            "Indicaciones de peligro"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué tipo de sustancias químicas provocan o favorecen la inflamación de combustibles y se identifican con el pictograma GHS03?",
+        "opciones": [
+            "Sustancias inflamables",
+            "Sustancias comburentes u oxidantes",
+            "Sustancias explosivas",
+            "Gases presurizados"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "Si usted descubre un derrame o fuga de un material peligroso, ¿qué acción NO debe realizar bajo ninguna circunstancia?",
+        "opciones": [
+            "Manipular el producto aunque no se encuentre capacitado para ello",
+            "Comunicarse a la extensión 1233 de inmediato",
+            "Informar al brigadista más cercano o a SST",
+            "Facilitar la Ficha de Datos de Seguridad (FDS) para su manejo"
+        ],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Cuántas secciones debe poseer siempre una Ficha de Datos de Seguridad (FDS) de acuerdo a la normativa para sustancias peligrosas?",
+        "opciones": [
+            "10 secciones",
+            "12 secciones",
+            "14 secciones",
+            "16 secciones"
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Qué precaución o regla es fundamental para el manejo o almacenamiento de cilindros que contienen gases comprimidos?",
+        "opciones": [
+            "Deben exponerse a temperaturas elevadas para evitar la condensación",
+            "No es necesario asegurarlos si están identificados como vacíos",
+            "Deben asegurarse con correas o cadenas para evitar que se caigan",
+            "Se pueden utilizar sin problemas aunque no se pueda leer su etiqueta de identificación"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "En el sistema de identificación NFPA 704, ¿qué representa la sección de color rojo del rombo?",
+        "imagen": "image_Exam/nfpa_704_seccion_roja.jpg",
+        "opciones": [
+            "Riesgo de Salud",
+            "Riesgo Específico",
+            "Reactividad",
+            "Inflamabilidad"
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cómo se define un 'Riesgo Químico' desde la perspectiva de exposición laboral?",
+        "opciones": [
+            "Uso de equipo de protección personal sumado a un agente químico",
+            "Exposición controlada que genera cero efectos",
+            "Exposición descontrolada a un agente químico que puede causar efectos agudos y crónicos",
+            "Cualquier manipulación de un agente químico independientemente de la protección"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "Al manipular el producto químico 'Ultra Clean', ¿cuál de las siguientes es una advertencia explícita sobre su manejo?",
+        "opciones": [
+            "No trasvasar el producto a recipientes de vidrio borosilicato o envases plásticos de PET",
+            "Se recomienda almacenar exponiéndolo a la luz directa del sol y a altas temperaturas",
+            "Es obligatorio perforar los recipientes vacíos antes de desecharlos",
+            "No requiere el uso de equipo de protección personal como guantes o gafas"
+        ],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿En qué color de recipiente de gestión de residuos deben depositarse las botellas que contuvieron productos químicos (residuos peligrosos)?",
+        "opciones": [
+            "Azul",
+            "Rojo",
+            "Verde",
+            "Gris"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué combinación de sustancias químicas se considera extremadamente peligrosa y deben almacenarse lejos las unas de las otras para evitar reacciones violentas en caso de incendio?",
+        "opciones": [
+            "Gases comprimidos y metales sólidos",
+            "Oxidantes y materiales inflamables",
+            "Agua y soluciones jabonosas",
+            "Corrosivos y cualquier producto alimenticio empacado"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "Para evitar que sus manos entren en contacto con químicos perjudiciales, ¿qué acción debe realizar justo antes de quitarse los guantes contaminados?",
+        "opciones": [
+            "Tirarlos inmediatamente en la papelera común",
+            "Frotarse las manos vigorosamente",
+            "Enjuagarlos con agua clara para retirar cualquier residuo químico",
+            "Limpiarlos frotándolos contra su delantal protector"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "Identifique el tipo de riesgo asociado al pictograma del SGA que muestra una 'O' con llamas (llama sobre un círculo):",
+        "imagen": "image_Exam/sga_llama_sobre_circulo.jpg",
+        "opciones": [
+            "Gas inflamable",
+            "Sustancia Comburente u Oxidante",
+            "Material explosivo",
+            "Gas a presión"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "Si le caen químicos en los ojos, ¿cuál es el tiempo ininterrumpido durante el cual debe enjuagarlos con agua en la estación de lavado de ojos de emergencia?",
+        "opciones": [
+            "5 minutos",
+            "10 minutos",
+            "15 minutos",
+            "30 minutos"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "Al tener que usar una ducha de emergencia corporal completa debido a un contacto químico masivo, ¿cómo se deben mantener los ojos y la boca durante el lavado bajo el chorro de agua?",
+        "opciones": [
+            "Totalmente abiertos para garantizar una limpieza profunda",
+            "Mantenerlos cerrados durante el proceso",
+            "Abrirlos y cerrarlos de manera intermitente",
+            "Cubrirlos con las manos sin importar si los guantes están contaminados"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "Al manipular alcohol etílico extraneutro al 96% vol, ¿cuál de las siguientes acciones está estrictamente prohibida?",
+        "opciones": [
+            "Utilizar ropa de algodón u otro material natural",
+            "Comer, beber o fumar durante su manipulación",
+            "Lavarse los brazos y uñas después de usar el producto",
+            "Utilizar equipamiento que evite cargas electrostáticas"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿A qué categoría del Sistema Globalmente Armonizado corresponden los efectos adversos que se manifiestan tras la administración por vía oral o cutánea de una sola dosis de dicha sustancia (GHS06)?",
+        "opciones": [
+            "Toxicidad aguda",
+            "Lesiones oculares graves",
+            "Mutagenicidad y carcinogenicidad",
+            "Peligro por aspiración"
+        ],
+        "correcta": 0
+    }
+]

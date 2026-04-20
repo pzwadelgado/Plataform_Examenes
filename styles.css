@@ -1,0 +1,146 @@
+:root {
+    --rojo-marca: #dd0814;
+    --amarillo-marca: #ffc90f;
+    --blanco: #ffffff;
+    --gris-fondo: #f0f2f5;
+    --texto-oscuro: #333333;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--gris-fondo);
+    color: var(--texto-oscuro);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.view-section {
+    display: none;
+    width: 100%;
+    max-width: 800px;
+    padding: 20px;
+}
+
+.view-section.active {
+    display: block;
+}
+
+/* Tarjetas */
+.card {
+    background-color: var(--blanco);
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    border-top: 6px solid var(--rojo-marca);
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#exam-content.card {
+    max-width: 100%; /* El examen usa todo el ancho */
+}
+
+/* Campos de texto */
+input[type="number"] {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+    text-align: center;
+}
+
+input[type="number"]:focus {
+    border-color: var(--rojo-marca);
+    outline: none;
+}
+
+/* Botón Principal (Rojo) */
+.btn-principal {
+    background-color: var(--rojo-marca);
+    color: var(--blanco);
+    border: none;
+    padding: 12px 20px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.btn-principal:hover {
+    background-color: var(--amarillo-marca);
+    color: var(--rojo-marca);
+}
+
+/* Botón Secundario (Gris/Plata) */
+.btn-secundario {
+    background-color: #e2e8f0;
+    color: var(--texto-oscuro);
+    border: none;
+    padding: 10px 16px;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.btn-secundario:hover {
+    background-color: #cbd5e1;
+}
+
+/* Headers de Panel y Examen */
+.header-corporativo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--blanco);
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    border-left: 6px solid var(--amarillo-marca);
+}
+
+/* Grid de Cursos */
+.courses-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 15px;
+}
+
+.error-msg {
+    color: var(--rojo-marca);
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Opciones del Examen */
+.options-list button {
+    display: block;
+    width: 100%;
+    text-align: left;
+    margin-bottom: 10px;
+    background-color: #f8fafc;
+    border: 2px solid #e2e8f0;
+    color: var(--texto-oscuro);
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.options-list button:hover {
+    border-color: var(--amarillo-marca);
+    background-color: #fffbeb;
+}
