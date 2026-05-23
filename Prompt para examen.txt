@@ -1,0 +1,24 @@
+"Actúa como un experto en Seguridad y Salud en el Trabajo (SST) y diseño de evaluaciones. Basado estrictamente en los documentos que te he proporcionado, genera un examen de selección múltiple de 20 preguntas sobre este tema.
+Tu respuesta debe ser ÚNICAMENTE un código JSON válido, sin texto introductorio ni conclusiones.
+Para cada pregunta, debes usar exactamente esta estructura:
+"pregunta": El texto de la pregunta (clara y concisa).
+"imagen": Esta llave es OPCIONAL. Solo debes agregarla si la pregunta requiere identificar visualmente algo (un pictograma, una herramienta, un acto inseguro, etc.). Si la agregas, invéntate un nombre descriptivo para la imagen siguiendo exactamente esta ruta: "image_Exam/nombre_descriptivo.jpg". Si la pregunta no necesita imagen, simplemente no incluyas esta llave.
+"opciones": Un arreglo con exactamente 4 opciones de respuesta.
+"correcta": El número de la posición de la respuesta correcta, recordando que la primera opción es 0, la segunda es 1, la tercera es 2 y la cuarta es 3.
+Ejemplo de cómo debe verse el JSON final:
+JSON
+[
+  {
+    "pregunta": "¿Cuál es el nivel mínimo de oxígeno permitido para ingresar a un espacio confinado sin equipo de respiración autónomo?",
+    "opciones": ["18.0%", "19.5%", "21.0%", "23.5%"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Identifique el tipo de riesgo que representa el siguiente pictograma:",
+    "imagen": "image_Exam/pictograma_corrosivo.jpg",
+    "opciones": ["Riesgo biológico", "Inflamable", "Corrosivo", "Peligro para el medio ambiente"],
+    "correcta": 2
+  }
+]
+Genera el examen ahora."
+
