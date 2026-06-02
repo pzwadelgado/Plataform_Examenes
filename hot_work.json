@@ -1,0 +1,204 @@
+[
+    {
+        "pregunta": "Según la normativa para Trabajos en Caliente, ¿qué se considera un trabajo en caliente?",
+        "opciones": [
+            "Trabajos exclusivos de cocina industrial",
+            "Actividades que involucran llamas, chispas o calor, como soldadura o esmerilado",
+            "Trabajos realizados a la intemperie bajo el sol directo",
+            "Cualquier tarea que requiera herramientas eléctricas portátiles"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes normativas internacionales aborda específicamente la prevención de incendios durante trabajos de soldadura, corte y otros trabajos en caliente?",
+        "opciones": [
+            "ISO 9001",
+            "NFPA 51B",
+            "OSHA 29 CFR 1910.1000",
+            "API RP 2000"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué medida de seguridad es obligatoria respecto a la guarda de protección en esmeriles y pulidoras?",
+        "opciones": [
+            "Debe retirarse si el disco es completamente nuevo",
+            "Se puede quitar temporalmente para alcanzar espacios estrechos",
+            "Debe mantenerse siempre instalada",
+            "Solo es obligatoria si se corta metal de gran grosor"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el procedimiento correcto para limpiar la protección visual y facial (como caretas y gafas) previniendo rayaduras?",
+        "opciones": [
+            "Limpiarlas en seco con una servilleta de papel absorbente",
+            "Utilizar solventes industriales ligeros",
+            "Lavarlas utilizando agua y jabón neutro",
+            "Frotarlas vigorosamente con los guantes de cuero secos"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cómo se deben almacenar los respiradores de media cara para evitar la saturación prematura de los filtros P100?",
+        "opciones": [
+            "En una bolsa hermética tipo Ziploc",
+            "Colgados al aire libre en el área de trabajo",
+            "Dentro de la maleta de la máquina de soldar",
+            "En el casillero junto a la ropa de trabajo usada"
+        ],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué cuidado o inspección previa se le debe realizar a los guantes de hule dieléctricos (aislante Clase 0) antes de cada uso?",
+        "opciones": [
+            "Medir su conductividad con un multímetro",
+            "Inspección visual mediante el inflado del guante",
+            "Estirarlos al máximo para comprobar su límite de elasticidad",
+            "Lavarlos con agua a alta temperatura"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "Al ejecutar trabajos en caliente dentro de espacios confinados (como silos), ¿qué equipo está prohibido ingresar a dicho espacio?",
+        "opciones": [
+            "Herramientas mecánicas de fijación",
+            "Conductos de ventilación local forzada",
+            "Cilindros de gases o máquinas soldadoras",
+            "Detectores portátiles multi-gas"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "Dentro de la jerarquía de control de riesgos, ¿qué medida representa una acción de 'Sustitución' en trabajos en caliente?",
+        "opciones": [
+            "Usar ropa ignífuga y pantallas faciales",
+            "Instalar cortinas ignífugas en el área",
+            "Sustituir equipos de combustión por alternativas eléctricas o usar adhesivos industriales",
+            "Emitir un permiso de trabajo en caliente"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "Según la jerarquía de control, evitar los trabajos en caliente usando fijaciones mecánicas en lugar de soldadura, ¿a qué nivel corresponde?",
+        "opciones": [
+            "Administrativos",
+            "Sustitución",
+            "Eliminación",
+            "Ingeniería"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Durante qué momento es exigida la presencia de un vigía de incendios en un trabajo en caliente?",
+        "opciones": [
+            "Solo durante los primeros 10 minutos de la tarea",
+            "Únicamente antes de comenzar para validar el permiso",
+            "Solo al finalizar la tarea para recoger las herramientas",
+            "Antes, durante y se debe continuar vigilando después de completar el trabajo"
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "Identifique la herramienta comúnmente utilizada en trabajos en caliente mostrada en la imagen, a la cual es prohibido retirarle la guarda de seguridad:",
+        "imagen": "image_Exam/esmeril_angular.jpg",
+        "opciones": [
+            "Taladro de impacto",
+            "Esmeril / Pulidora",
+            "Soldadora Inverter",
+            "Cizalla neumática"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿A qué distancia segura mínima, recomendada en la guía rápida, debe mantenerse el usuario del origen de la llama al operar un extintor?",
+        "opciones": [
+            "1 metro",
+            "2 metros",
+            "3 metros",
+            "5 metros"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es la vigencia de un Permiso de Trabajo en Caliente antes de requerir renovación?",
+        "opciones": [
+            "Es válido por una semana laboral completa",
+            "Es válido únicamente para la duración de un proyecto específico",
+            "Es válido únicamente por turno de trabajo y debe ser renovado para un nuevo turno",
+            "No caduca mientras no cambie el personal asignado"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué acción estipula el protocolo ante un cambio repentino en las condiciones de seguridad, nuevos riesgos o variaciones en la maquinaria durante un trabajo en caliente?",
+        "opciones": [
+            "Avisar a seguridad industrial y seguir trabajando",
+            "Detener el trabajo inmediatamente y obtener un nuevo permiso al restablecer la seguridad",
+            "Cambiar el EPP y terminar la tarea lo más rápido posible",
+            "Ignorar el cambio si faltan menos de 10 minutos para concluir el turno"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "Identifique el tipo de protección respiratoria mostrada en la imagen, recomendada para la protección contra humos metálicos:",
+        "imagen": "image_Exam/respirador_p100.jpg",
+        "opciones": [
+            "Mascarilla quirúrgica desechable N95",
+            "Respirador media cara con filtros P100",
+            "Equipo de respiración autónoma (SCBA)",
+            "Capucha de suministro continuo de aire"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es la distancia mínima en la que se debe evacuar/aislar el área en caso de un incendio de un vehículo eléctrico (baterías de litio)?",
+        "opciones": [
+            "Al menos 5 metros",
+            "Al menos 15 metros",
+            "Al menos 30 metros",
+            "Al menos 50 metros"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué medida es crucial para controlar térmicamente el incendio de las celdas de batería de un vehículo eléctrico, diferenciándolo de un fuego común?",
+        "opciones": [
+            "Requiere ingentes cantidades de agua para enfriar la batería, no solo para sofocar",
+            "Sofocar el fuego exclusivamente con mantas y lomas ignífugas",
+            "Aplicar ráfagas intermitentes de polvo químico seco tipo ABC",
+            "Utilizar grandes cantidades de extintor de Dióxido de Carbono (CO2)"
+        ],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Cuál es la finalidad principal de apagar los conductos de ventilación y transportadores de la zona antes de iniciar el trabajo en caliente?",
+        "opciones": [
+            "Ahorrar energía eléctrica durante la jornada",
+            "Evitar que dichas corrientes trasladen chispas de soldadura a otras áreas",
+            "Reducir el nivel de ruido ambiental para mejor comunicación",
+            "Prevenir daños en los motores por el calor ambiental"
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Para qué tipo de fuego está diseñado principalmente el extintor de clase K (Agente Húmedo)?",
+        "opciones": [
+            "Metales combustibles (Magnesio, Sodio)",
+            "Materiales sólidos comunes (Madera, Cartón)",
+            "Grasas y aceites de cocina comercial",
+            "Incendios en transformadores y tableros eléctricos"
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "De acuerdo con las estrategias de seguridad contra incendios, ¿a qué distancia aproximada del área de trabajo en caliente se debe retirar todo material combustible removible?",
+        "opciones": [
+            "1 metro",
+            "2 metros",
+            "5 metros",
+            "10 metros"
+        ],
+        "correcta": 1
+    }
+]
