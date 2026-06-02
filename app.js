@@ -7,7 +7,9 @@ const allCourses = [
     { id: "lifting", name: "Levantamiento de Cargas", icon: '<i class="fa-solid fa-truck-ramp-box" style="color: var(--amarillo-marca);"></i>' },
     { id: "chemicals", name: "Seguridad Química", icon: '<i class="fa-solid fa-flask-vial" style="color: var(--amarillo-marca);"></i>' },
     { id: "confined", name: "Espacios Confinados", icon: '<i class="fa-solid fa-door-closed" style="color: var(--amarillo-marca);"></i>' },
-    { id: "ppe", name: "Uso de EPP", icon: '<i class="fa-solid fa-hard-hat" style="color: var(--amarillo-marca);"></i>' }
+    { id: "ppe", name: "Uso de EPP", icon: '<i class="fa-solid fa-hard-hat" style="color: var(--amarillo-marca);"></i>' },
+    // 🟢 AGREGAMOS LA NUEVA TARJETA AQUÍ EN TU COMPU LOCAL:
+    { id: "limpieza_operativa", name: "Limpieza Operativa", icon: '<i class="fa-solid fa-broom" style="color: var(--amarillo-marca);"></i>' }
 ];
 
 // --- SECCIÓN 2: NAVEGACIÓN DE VISTAS ---
@@ -40,9 +42,12 @@ async function login() {
             throw new Error("El archivo api.js no está conectado o tiene un error de sintaxis.");
         }
 
-        const user = await fetchUserFromDB(inputId);
+       const user = await fetchUserFromDB(inputId);
         
         if (user) {
+            // 🟢 AGREGAMOS "limpieza_operativa" AL ARREGLO DE CURSOS PERMITIDOS:
+            user.allowedCourses = ["hot_work", "heights", "loto", "lifting", "chemicals", "confined", "ppe", "limpieza_operativa"];
+
             currentUser = { id: inputId, ...user };
             errorMsg.textContent = "";
             renderDashboard();
