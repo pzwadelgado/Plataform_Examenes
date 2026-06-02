@@ -121,7 +121,7 @@
         "correcta": 2
     },
     {
-        "pregunta": "¿Cuál es la vigencia de un Permiso de Trabajo en Caliente antes de requerir renovación?",
+        "pregunta": "Cuál es la vigencia de un Permiso de Trabajo en Caliente antes de requerir renovación?",
         "opciones": [
             "Es válido por una semana laboral completa",
             "Es válido únicamente para la duración de un proyecto específico",
@@ -149,7 +149,7 @@
             "Equipo de respiración autónoma (SCBA)",
             "Capucha de suministro continuo de aire"
         ],
-        "correcta": 2
+        "correcta": 1
     },
     {
         "pregunta": "¿Cuál es la distancia mínima en la que se debe evacuar/aislar el área en caso de un incendio de un vehículo eléctrico (baterías de litio)?",
@@ -169,7 +169,7 @@
             "Aplicar ráfagas intermitentes de polvo químico seco tipo ABC",
             "Utilizar grandes cantidades de extintor de Dióxido de Carbono (CO2)"
         ],
-        "correcta": 0
+        "correcta": 1
     },
     {
         "pregunta": "¿Cuál es la finalidad principal de apagar los conductos de ventilación y transportadores de la zona antes de iniciar el trabajo en caliente?",
@@ -199,6 +199,6 @@
             "5 metros",
             "11 metros"
         ],
-        "correcta": 4
+        "correcta": 3
     }
 ]
